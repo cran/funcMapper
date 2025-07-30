@@ -1,6 +1,6 @@
 Package: funcMapper
 Title: Map User-Created Functions
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     person("Antonio", "Fratamico", email = "fratamicoa@outlook.com", role = c("aut", "cre"))
 Description: Create an interactive function map by analyzing a specified
@@ -17,8 +17,8 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-07-23 20:21:51 UTC; root
+Packaged: 2025-07-30 15:40:38 UTC; root
 Author: Antonio Fratamico [aut, cre]
 Maintainer: Antonio Fratamico <fratamicoa@outlook.com>
 Repository: CRAN
-Date/Publication: 2025-07-24 13:30:06 UTC
+Date/Publication: 2025-07-30 16:20:02 UTC

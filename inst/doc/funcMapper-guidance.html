@@ -264,7 +264,9 @@ include .html).</p>
 <p><em>output_path</em>: Directory where the HTML file will be saved (do
 not include a trailing /).</p>
 <p><em>source</em>: Whether to run the script to load functions into the
-global environment (default is FALSE; set to TRUE if needed).</p>
+global environment (default is FALSE; set to TRUE if needed). If set to
+TRUE, the function will fail if the underlying script encounters any
+errors during execution.</p>
 <p><em>cleanup_temp_file</em>: Whether to delete the temporary script
 file used during mapping (default is TRUE; set to FALSE to retain
 it).</p>
